@@ -3,7 +3,7 @@
 # Hello World 👋🏾
 
 <img src="https://i.imgur.com/kmq1G2W.png" width="500px">
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/eloak)
@@ -12,7 +12,6 @@
 
 </div>
 
----
 ## **Sobre mim** ♉
 Olá! Sou Gabriel, um estudante de Ciência da Computação na Universidade Federal da Bahia (UFBA), em Salvador. Estou apaixonado pela área de desenvolvimento de software e meu objetivo é me tornar um engenheiro de software completo (fullstack), com ênfase no desenvolvimento web/mobile. Atualmente, estou focado em aprimorar minhas habilidades de desenvolvimento front-end.
 
