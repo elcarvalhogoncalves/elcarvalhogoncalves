@@ -3,7 +3,7 @@
 # Hello World 👋🏾
 
 <img src="https://i.imgur.com/kmq1G2W.png" width="500px">
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/eloak)
