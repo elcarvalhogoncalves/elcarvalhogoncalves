@@ -2,7 +2,7 @@
 
 # Hello World 👋🏾
 
-<img src="https://i.imgur.com/kmq1G2W.png" width="500px">
+<img src="https://i.imgur.com/kmq1G2W.png" width="350px">
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/)
@@ -12,8 +12,9 @@
 
 </div>
 
+---
 ## **Sobre mim** ♉
-Olá! Sou Gabriel, um estudante de Ciência da Computação na Universidade Federal da Bahia (UFBA), em Salvador. Estou apaixonado pela área de desenvolvimento de software e meu objetivo é me tornar um engenheiro de software completo (fullstack), com ênfase no desenvolvimento web/mobile. Atualmente, estou focado em aprimorar minhas habilidades de desenvolvimento front-end.
+Olá! Sou Gabriel, um estudante de Ciência da Computação na Universidade Federal da Bahia (UFBA). Estou apaixonado pela área de desenvolvimento de software e meu objetivo é me tornar um engenheiro de software completo (fullstack), com ênfase no desenvolvimento web/mobile. Atualmente, estou focado em aprimorar minhas habilidades de desenvolvimento front-end.
 
 
 
@@ -55,11 +56,11 @@ Loading...
 
 ## **Objetivos Futuros** 🌒 
 
-* ~~Construir e manter um perfil profissional online, atualizando meu portfólio, compartilhando minhas conquistas e projetos, e interagindo com outros profissionais do setor.~~
-* Aprofundar meus conhecimentos em desenvolvimento web e me tornar um especialista em tecnologias front-end.
-* Praticar boas práticas de programação, adotando padrões de código limpo, estruturas eficientes e arquiteturas sólidas.
-* Dominar o desenvolvimento full-stack, adquirindo habilidades em back-end e bancos de dados.
-* Aprender e aplicar práticas de desenvolvimento ágil e metodologias de trabalho colaborativo.
-* Participar de projetos, tanto em equipes colaborativas como em projetos independentes, para adquirir experiência prática e aplicar os conhecimentos adquiridos.
-* Trabalhar em um ambiente que valorize a inovação, a colaboração e o aprendizado contínuo.
-* Aprender novas tecnologias e ferramentas que possam melhorar meu conjunto de habilidades e me manter atualizado com as tendências do mercado.
+ - [x] Construir e manter um perfil profissional online, atualizando meu portfólio, compartilhando minhas conquistas e projetos, e interagindo com outros profissionais do setor.
+- [ ] Aprofundar meus conhecimentos em desenvolvimento web e me tornar um especialista em tecnologias front-end.
+- [ ] Praticar boas práticas de programação, adotando padrões de código limpo, estruturas eficientes e arquiteturas sólidas.
+- [ ] Dominar o desenvolvimento full-stack, adquirindo habilidades em back-end e bancos de dados.
+- [ ] Aprender e aplicar práticas de desenvolvimento ágil e metodologias de trabalho colaborativo.
+- [ ] Participar de projetos, tanto em equipes colaborativas como em projetos independentes, para adquirir experiência prática e aplicar os conhecimentos adquiridos.
+- [ ] Trabalhar em um ambiente que valorize a inovação, a colaboração e o aprendizado contínuo.
+- [ ] Aprender novas tecnologias e ferramentas que possam melhorar meu conjunto de habilidades e me manter atualizado com as tendências do mercado.
