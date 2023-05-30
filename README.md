@@ -50,7 +50,7 @@ Aqui estão algumas das tecnologias e linguagens de programação com as quais j
 ## **Projetos Elaborados Recentemente** 🌎
 Aqui estão alguns dos projetos disponíveis:
 
- ⭐ [CodeLab]([link-projeto1](https://github.com/elcarvalhogoncalves/CodeLab/)): Um repositório para armazenar e compartilhar meus projetos de desenvolvimento, onde posso praticar e aprimorar minhas habilidades. 
+ ⭐ [CodeLab](https://github.com/elcarvalhogoncalves/CodeLab/): Um repositório para armazenar e compartilhar meus projetos de desenvolvimento, onde posso praticar e aprimorar minhas habilidades. 
 
 ## **Objetivos Futuros** 🌒 
 
