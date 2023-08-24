@@ -19,12 +19,12 @@ Olá! Sou Gabriel, um estudante de Ciência da Computação na Universidade Fede
 
 * Bacharelado em Ciência da Computação, UFBA | 2018.2 - Em andamento.
   
-## **Licenças e certificados**
+## **Licenças e certificados** 🚀
 
 * Desenvolvimento WEB - HTML/CSS/JS (InfoJr - Empresa Júnior de Informática da UFBA);
 * Auxiliar Administrativo (SENAI BAHIA).
 
-## **Habilidades Técnicas** 🚀
+## **Habilidades Técnicas** 🌌
 
 Aqui estão algumas das tecnologias e linguagens de programação com as quais já tive contato durante meus estudos e experiências:
 
