@@ -15,11 +15,16 @@
 ## **Sobre mim** ♉
 Olá! Sou Gabriel, um estudante de Ciência da Computação na Universidade Federal da Bahia (UFBA). Estou apaixonado pela área de desenvolvimento de software e meu objetivo é me tornar um engenheiro de software completo (fullstack), com ênfase no desenvolvimento web/mobile. Atualmente, estou focado em aprimorar minhas habilidades de desenvolvimento front-end.
 
-## **Formação Acadêmica**🌠
+## **Formação Acadêmica** 🌠
 
 * Bacharelado em Ciência da Computação, UFBA | 2018.2 - Em andamento.
+  
+## **Licenças e certificados**
 
-## **Habilidades Técnicas**🚀
+* Desenvolvimento WEB - HTML/CSS/JS (InfoJr - Empresa Júnior de Informática da UFBA);
+* Auxiliar Administrativo (SENAI BAHIA).
+
+## **Habilidades Técnicas** 🚀
 
 Aqui estão algumas das tecnologias e linguagens de programação com as quais já tive contato durante meus estudos e experiências:
 
