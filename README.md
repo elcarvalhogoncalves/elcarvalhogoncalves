@@ -13,11 +13,12 @@
 
 ---
 ## **Sobre mim** ♉
-Olá! Sou Gabriel, um estudante de Ciência da Computação na Universidade Federal da Bahia (UFBA). Estou apaixonado pela área de desenvolvimento de software e meu objetivo é me tornar um engenheiro de software completo (fullstack), com ênfase no desenvolvimento web/mobile. Atualmente, estou focado em aprimorar minhas habilidades de desenvolvimento front-end.
+Olá! Sou Gabriel, um estudante de Ciência da Computação na Universidade Estadual de Santa Cruz (UESC). Estou apaixonado pela área de desenvolvimento de software e meu objetivo é me tornar um engenheiro de software completo (fullstack), com ênfase no desenvolvimento web/mobile. Atualmente, estou focado em aprimorar minhas habilidades de desenvolvimento front-end.
 
 ## **Formação Acadêmica** 🌠
 
-* Bacharelado em Ciência da Computação, UFBA | 2018.2 - Em andamento.
+* Bacharelado em Ciência da Computação, UFBA | 2018.2 - 2023.2(TRANSFERÊNCIA PARA UESC)
+* Bacharelado em Ciência da Computação, UESC | 2024.1 - Em andamento.
   
 ## **Licenças e certificados** 🚀
 
