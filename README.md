@@ -34,7 +34,6 @@ Aqui estão algumas das tecnologias e linguagens de programação com as quais j
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -65,14 +64,3 @@ Aqui estão algumas das tecnologias e linguagens de programação com as quais j
 Aqui estão alguns dos projetos disponíveis:
 
  ⭐ [CodeLab](https://github.com/elcarvalhogoncalves/CodeLab/): Um repositório para armazenar e compartilhar meus projetos de desenvolvimento, onde posso praticar e aprimorar minhas habilidades. 
-
-## **Objetivos Futuros** 🌒 
-
- - [x] Construir e manter um perfil profissional online, atualizando meu portfólio, compartilhando minhas conquistas e projetos, e interagindo com outros profissionais do setor.
-- [ ] Aprofundar meus conhecimentos em desenvolvimento web e me tornar um especialista em tecnologias front-end.
-- [ ] Praticar boas práticas de programação, adotando padrões de código limpo, estruturas eficientes e arquiteturas sólidas.
-- [ ] Dominar o desenvolvimento full-stack, adquirindo habilidades em back-end e bancos de dados.
-- [ ] Aprender e aplicar práticas de desenvolvimento ágil e metodologias de trabalho colaborativo.
-- [ ] Participar de projetos, tanto em equipes colaborativas como em projetos independentes, para adquirir experiência prática e aplicar os conhecimentos adquiridos.
-- [ ] Trabalhar em um ambiente que valorize a inovação, a colaboração e o aprendizado contínuo.
-- [ ] Aprender novas tecnologias e ferramentas que possam melhorar meu conjunto de habilidades e me manter atualizado com as tendências do mercado.
